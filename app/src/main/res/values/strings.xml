@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp_Java</string>
+    <string name="logo">Погода вашого міста</string>
+    <string name="hint_user_field">Введіть назву міста</string>
+    <string name="button_text">Дізнатись погоду</string>
+    <string name="text_null">Введіть текст</string>
+</resources>
